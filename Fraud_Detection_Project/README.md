@@ -15,6 +15,7 @@ Class – Target variable
 0 → Normal Transaction
 1 → Fraudulent Transaction
 The dataset is highly imbalanced, meaning fraudulent transactions are very rare compared to normal transactions.
+Dataset is too large to upload. You can download it from Kaggle:https:// https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 How to Run the Project:
 Step 1: Install Required Libraries
